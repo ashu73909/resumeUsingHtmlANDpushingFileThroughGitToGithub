@@ -9,3 +9,7 @@ button{
     padding: 10px;
     border-radius: 10px;
 }
+.btn:hover{
+    scale: 2;
+    border:6px solid white;
+}
